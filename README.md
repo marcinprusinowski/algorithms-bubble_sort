@@ -1,7 +1,7 @@
 # Bubble Sort!
 
-Simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order. If you've ever played card games you are familiar with this algorithms without even knowing about it.
-It is the same way we sort cards from the lowest to the highest.
+Simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+Bubble Sort mechanism based on comparing two closed to eatch other elements and swaping them if right is smaller.
 Simplest way to understand is to watch this quick video.
 https://www.youtube.com/watch?v=nmhjrI-aW5o&feature=emb_title
 
